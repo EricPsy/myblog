@@ -2,7 +2,9 @@
 title: Home
 ---
 
-{{<figure src="https://blog20200906.oss-cn-hangzhou.aliyuncs.com/uPic/photo.jpeg" title="This is me, which is me (我就是我，不一样的烟火)" width="450">}}
+{{<figure src="https://blog20200906.oss-cn-hangzhou.aliyuncs.com/uPic/1.png" title="Hi! This is me (Hi，这就是我！一个I人)" width="1200">}}
+
+
 
 Hi My name is He Chen. 
 
