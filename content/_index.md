@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="https://blog20200906.oss-cn-hangzhou.aliyuncs.com/uPic/1.png" title="Hi! That's me and my triplet brothers :-) (Hi，这就是我！一个爱运动的I人)" width="1400">}}
+{{<figure src="https://blog20200906.oss-cn-hangzhou.aliyuncs.com/uPic/1.png" title="Hi! That's me and my triplet brothers 👻  (Hi，这就是我！)" width="1400">}}
 
 
 
