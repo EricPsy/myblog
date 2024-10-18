@@ -3,67 +3,51 @@ title: "Curriculum Vitae"
 type : list-single
 ---
 
-## Albert Einstein
+## He Chen
 
-Institute for Advanced Study\
-Einstein Drive/
-Princeton, N.J. 08540 USA
+Email: psyericchen@hotmail.com\
 
-Phone: 609-734-8000\
-Mobile: 609-924-8399
+### EDUCATION
 
-Email: a.einstein@ias.edu\
-URL: http://www.ias.edu/spfeatures/einstein/
+**MA, [Social Cognitive Neuroscience]**        Sep.2017~ Jul.2020\
 
-Born: March 12, 1879—Ulm, Germany\
-Nationality: German/American
+HangZhou Normal University, CHINA\
 
-### Current position
-Emeritus Professor, Institute for Advanced Study, Princeton 
+**BA, [Human Resource Management]**        Sep**.**2010~May.2014\
 
-### Areas of specialisation
-Physics; Relativity Theory
+Zhejiang University of Finance and Economics, CHINA     
 
-### Appointments held
+### WORKING 
 
-1903-1908, Swiss Patent Office, Bern\
-1908-1911, University of Bern\
-1911-1912, University of Zürich\
-1912-1914, Charles University of Prague\
-1914-1932, Prussian Academy of Sciences, Berlin\
-1920-1930, University of Leiden\
-1932-1955, Institute for Advanced Study, Princeton
+**Data Analyst**      February 2021 - Present\
 
-### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
+Working in e-commerce related companies, focusing on business analysis and Business Intelligence. 
 
-### Grants, honours & awards
-1921, Nobel Prize in Physics, Nobel Foundation
 
-### Publications & talks
-#### Journal articles
-1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
-2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
-1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
-3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
-1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
-4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
-5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
-6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
-7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
 
-#### Books
-Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
+### EXPERIENCE
 
-#### Newspaper articles
-1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
-2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
+Department of Psychology                                         Sep. 2017 - Jul.2020\
 
-### Teaching
+M.A
 
-...
+- Write and led to the publication of  *Fragile promise: The role of justification in promise- breaking*
+- Learning to operate a 64-channel EEG device and conduct data analysis
+- Learning Python and data analysis, and programming experimental tasks using Psychopy\
 
-### Service to the profession
+Industry                     February 2021 - Present\
 
-...
+- **Industry Research**:Conducting in-depth research and analysis of market trends, competitor activities, and consumer behaviors within specific industries\
+- **Data Extraction & Cleaning:** Query databases and preprocess data using tools like SQL, Python to ensure data quality and accuracy\
+-  **Data visualization**:Compile data into meaningful reports and dashboards using tool such as Tableau, QUICK BI\
+- **Business Insights:** Translate data sets into actionable insights and recommendations for the e-commerce operations team\
+
+### PUBLICATIONS 
+
+He Chen, Yuxuan Dong, Shaohan Jiang, et al.(2022). Fragile promise: The role of justification in promise- breaking. *Asian Journal of Social Psychology*. https://doi.org/10.1111/ajsp.12542
+
+### SKILLS
+
+**Languages:** Python, SQL\
+
+**Frameworks & Libraries:**  Numpy,Pandas, Scikit-learn
